@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harish-hyperDev
 - 👀 I’m interested in Web applications
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JS Projects
 - 📫 How to reach me on Discord **HarishHyper#7229**
 
 <!---
