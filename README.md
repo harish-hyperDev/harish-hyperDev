@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @harish-hyperDev
-- 👀 I’m interested in Web applications
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JS Projects
-- 📫 How to reach me on Discord **HarishHyper#7229**
+👋 Hi, I’m Harish 😊
+
+👀 I’m interested in almost anything(but mainly on backend and servers).
+
+💻 Things that I use:
+- #### Backend
+- - Flask
+- - django
+- - Node
+- - Go
+- #### Frontend
+- - React
+- #### Dashboards
+- - d3.js
+- #### Code Editor
+- - neovim, vs-code
+- #### Play around with
+- - lua
+
+ 
+💞️ Looking to collaborate on open source projects.
+
+📫 You can reach me on Discord **HarishHyper#7229**
 
 <!---
 harish-hyperDev/harish-hyperDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
