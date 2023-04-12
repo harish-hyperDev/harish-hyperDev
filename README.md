@@ -10,8 +10,6 @@
 - - Go
 - #### Frontend
 - - React
-- #### Dashboards
-- - d3.js
 - #### Code Editor
 - - neovim, vs-code
 - #### Play around with
